@@ -22,7 +22,7 @@ Tatiana Stewart
 Daniel Zalutskiy
 
 
-# CAPSTONE-3-OUTDOORS
+# CAPSTONE-3-MICROBLOG
 
 
 Hello and welcome to my website for MicroblogLite API
