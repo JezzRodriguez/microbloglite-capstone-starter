@@ -14,8 +14,8 @@ Team
 <li>Nikolas Vega</li>
 </ul>
 
-
-JS Boiler Plate from Team DP
+<b>Special Thanks</b>
+Team Mercury
 
 <ul>
 <li>David Park</li>
@@ -24,6 +24,12 @@ JS Boiler Plate from Team DP
 <li>Daniel Zalutskiy</li>
 </ul>
 
+JavaScript is based from this repo
+
+<a href="https://github.com/davempark09/capstone3-microblog-network">Click here</a>
+<a>https://github.com/davempark09/capstone3-microblog-network<a>
+
+Credit to the orginal coders of the posts.js, register.js, and profile.js
 
 # CAPSTONE-3-OUTDOORS
 
